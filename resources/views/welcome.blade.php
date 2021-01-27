@@ -8,6 +8,10 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
     </head>
     <body>
+    
+
+    asdsa
+
 
     <script src="{{ asset('/js/app.js') }}"></script>
     <script>
@@ -17,6 +21,5 @@
                 console.log("e.data")
             })
     </script>
-    asdsa
     </body>
 </html>
